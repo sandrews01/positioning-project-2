@@ -1,0 +1,100 @@
+body {
+    background-color: antiquewhite;
+    size: 2000px;
+}
+.nav {
+    background-color: goldenrod;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.title {
+    padding: 10px;
+    color: #ffffff;
+    position: relative;
+}
+.links {
+    padding: 10px;
+    color: #ffffff;
+    position: relative;
+}
+.links span {
+    padding: 0px 10px;
+}
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.Dashboard {
+    width: 300px;
+    margin: 50px 20px;
+    border: 1px solid goldenrod;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+.header1 {
+    padding: 0px 10px;
+}
+.button1 {
+    padding: 10px 10px;
+    color: goldenrod;
+}
+.description1 {
+    padding: 0px 20px;
+}
+.Budget {
+    width: 300px;
+    margin: 50px 20px;
+    border: 1px solid goldenrod;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+.header2 {
+    padding: 0px 10px;
+}
+.button2 {
+    padding: 10px 10px;
+    color: goldenrod;
+}
+.description2 {
+    padding: 0px 20px;
+}
+.Checkbooks {
+    width: 300px;
+    margin: 50px 20px;
+    border: 1px solid goldenrod;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+.header3 {
+    padding: 0px 10px;
+}
+.button3 {
+    padding: 10px 10px;
+    color: goldenrod;
+}
+.description3 {
+    padding: 0px 20px;
+}
+.Money {
+    width: 300px;
+    margin: 50px 20px;
+    border: 1px solid goldenrod;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+.header4 {
+    padding: 0px 10px;
+}
+.button4 {
+    padding: 10px 10px;
+    color: goldenrod;
+}
+.description4 {
+    padding: 0px 20px;
+}
